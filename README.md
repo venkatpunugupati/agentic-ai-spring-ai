@@ -1,7 +1,6 @@
 # Spring AI Port of the ReAct Agent
 
-Week 3 (Day 3) of an 8-week Agentic AI upskill sprint: the raw Python ReAct
-agent from Week 2, rebuilt on Spring AI.
+The raw Python ReAct agent rebuilt on Spring AI.
 
 ## Stack
 
